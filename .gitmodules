@@ -1,0 +1,4 @@
+[submodule "l10n-account-ec"]
+	path = l10n-account-ec
+	url = git@gitlab.com:ateneolab/common/l10n-account-ec.git
+	branch = develop-14.0
